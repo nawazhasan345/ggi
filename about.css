@@ -1,0 +1,9 @@
+h1 {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    background-color: powderblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+flood-opacity: inherit;}
